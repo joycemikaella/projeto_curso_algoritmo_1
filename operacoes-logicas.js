@@ -1,13 +1,3 @@
-/*
-
-  se (passou) && ( media >=5 || media <=7) entao
-        escreval ("PASSOU MIZERA, TCHAU ", nome)
-      senao
-        escreval ("LASCOU-SE ", nome)
-
-      fimse*/
-
-
 var nota01, nota02, media, nome, passou
 
 passou = false;
